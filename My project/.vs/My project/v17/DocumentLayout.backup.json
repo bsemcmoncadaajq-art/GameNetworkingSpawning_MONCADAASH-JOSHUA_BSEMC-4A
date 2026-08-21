@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\assets\\scripts\\firingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\important documents\\ash\\gamenetworkingspawning_moncada, ash joshua_bsemc-4a\\my project\\assets\\scripts\\multiplayerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\important documents\\ash\\gamenetworkingspawning_moncada, ash joshua_bsemc-4a\\my project\\assets\\scripts\\bulletshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplayerHUD.cs",
+              "DocumentMoniker": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\MultiplayerHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultiplayerHUD.cs",
+              "ToolTip": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\MultiplayerHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MultiplayerHUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:50:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletShot.cs",
+              "DocumentMoniker": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\BulletShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletShot.cs",
+              "ToolTip": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\BulletShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletShot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:48:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientNetworkTransform.cs",
+              "DocumentMoniker": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ToolTip": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:47:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiringBullet.cs",
+              "DocumentMoniker": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\FiringBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FiringBullet.cs",
+              "ToolTip": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\FiringBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FiringBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:46:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Important documents\\Ash\\GameNetworkingSpawning_MONCADA, ASH JOSHUA_BSEMC-4A\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:46:20.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
